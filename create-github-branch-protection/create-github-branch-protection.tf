@@ -1,5 +1,5 @@
 provider "github" {
-    token = "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"
+    token = "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"
 
 }
 
