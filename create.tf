@@ -1,12 +1,3 @@
-terraform {
-  required_providers {
-    github = {
-      source = "integrations/github"
-      version = "5.1.0"
-    }
-  }
-}
-
 provider "github" {
   token = "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"
 }
